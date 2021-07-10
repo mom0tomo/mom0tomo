@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mom0tomo&hide=html)
+![mom0tomo's github stats](https://github-readme-stats.vercel.app/api?username=mom0tomo&show_icons=true&count_private=true&line_height=33)
+
 <!--
 **mom0tomo/mom0tomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
